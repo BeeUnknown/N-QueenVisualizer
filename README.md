@@ -1,3 +1,4 @@
-# N-QueenVisualizer
-It is a algo visualizer specified for N-Queen problem
+# N-Queens-Visualizer
+It is a algo visualizer specified for N-Queen problem.
+https://nqueen.netlify.app/
 
